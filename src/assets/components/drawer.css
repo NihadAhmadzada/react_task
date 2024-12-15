@@ -1,0 +1,18 @@
+.drawer {
+  display: flex;
+  flex-direction: column;
+  height: 0px;
+  width: 100%;
+
+  background-color: bisque;
+  transition: all 100ms linear;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: -100;
+}
+.isactivate {
+  transition: all 100ms linear;
+
+  height: 200px;
+}

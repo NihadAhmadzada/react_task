@@ -1,0 +1,15 @@
+.collapse{
+  width: 1000px;
+  height: 100px;
+  background-color: bisque;
+}
+.coll{
+  width: 1000px;
+  height: 0px;
+  background-color: blueviolet;
+  overflow: hidden;
+}
+.isactive{
+  height: 120px;
+
+}
